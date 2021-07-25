@@ -1,2 +1,11 @@
 # React-ToDo-List
-React ToDo list on localstorage
+
+
+
+### To run the application
+
+```shell
+nmp start
+```
+
+Based on youtube tutorial by Dev Ed
